@@ -1,0 +1,74 @@
+[
+    {
+        "title": "The Lord of the Rings",
+        "author": "J.R.R Tolkien",
+        "genre": "Fantasy, Drama",
+        "stand": "No stand yet",
+        "notes": "Test 123",
+        "image_path": "C:/Users/tomas/Desktop/Object Oriented Programming/Project/book_images/book4.jpg"
+    },
+    {
+        "title": "test1",
+        "author": "test1",
+        "genre": "test1",
+        "stand": "Stand 5",
+        "notes": "Test: add a book with no image",
+        "image_path": ""
+    },
+    {
+        "title": "The Hobbit",
+        "author": "J.R.R Tolkien",
+        "genre": "Fantasy",
+        "stand": "Stand 9",
+        "notes": "test2",
+        "image_path": "C:/Users/tomas/Desktop/Object Oriented Programming/Project/book_images/book5.jpg"
+    },
+    {
+        "title": "On Basketball and Ascension",
+        "author": "Hanif Abourraqib",
+        "genre": "Sports",
+        "stand": "Stand 17",
+        "notes": "test3",
+        "image_path": "C:/Users/tomas/Desktop/Object Oriented Programming/Project/book_images/book3.jpg"
+    },
+    {
+        "title": "The Mind of a Leader",
+        "author": "Kevin Anderson",
+        "genre": "Documentary",
+        "stand": "Stand 20",
+        "notes": "test4",
+        "image_path": "C:/Users/tomas/Desktop/Object Oriented Programming/Project/book_images/book1.jpg"
+    },
+    {
+        "title": "Oh, the Places you go!",
+        "author": "Dr. Seuss",
+        "genre": "test6",
+        "stand": "Stand 4",
+        "notes": "test6",
+        "image_path": "C:/Users/tomas/Desktop/Object Oriented Programming/Project/book_images/book2.jpg"
+    },
+    {
+        "title": "asd",
+        "author": "sdadas",
+        "genre": "dasdas",
+        "stand": "Stand 3",
+        "notes": "",
+        "image_path": ""
+    },
+    {
+        "title": "asda",
+        "author": "sadasd",
+        "genre": "sadasd",
+        "stand": "Stand 15",
+        "notes": "asdasd",
+        "image_path": "C:/Users/tomas/Desktop/tom/priv/Imagens/953844.jpg"
+    },
+    {
+        "title": "asdasd",
+        "author": "asd",
+        "genre": "sadasdada",
+        "stand": "No stand yet",
+        "notes": "",
+        "image_path": ""
+    }
+]
