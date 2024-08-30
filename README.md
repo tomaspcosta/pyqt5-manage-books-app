@@ -1,18 +1,18 @@
 # PyQt5 Manage Books App
 
-Este projeto é uma aplicação para gestão de livros desenvolvida com PyQt5. A aplicação permite adicionar, editar, pesquisar e eliminar livros, além de armazenar informações num ficheiro JSON.
+This project is a book management application developed with PyQt5. The application allows adding, editing, searching, and deleting books, as well as storing information in a JSON file.
 
-## Estrutura do Projeto
+## Project Structure
 
-O repositório contém os seguintes ficheiros:
+The repository contains the following files:
 
-- **`project.py`**: Código-fonte principal da aplicação.
-- **`library.json`**: Ficheiro JSON para armazenar os dados dos livros.
+- **`project.py`**: The main source code of the application.
+- **`library.json`**: JSON file used to store book data.
 
-## Funcionalidades
+## Features
 
-- **Adicionar Livro**: Permite o preenchimento dos campos de título, autor, género, stand e notas do livro, com a opção de adicionar uma imagem.
-- **Editar Livro**: Modifica as informações e a imagem associada ao livro.
-- **Pesquisar Livro**: Filtra livros com base no título ou autor.
-- **Eliminar Livro**: Remove um livro da lista.
-- **Gerir Estantes**: Ajusta o número de estantes disponíveis para os livros.
+- **Add Book**: Fill in fields for title, author, genre, stand, and notes, with the option to add an image.
+- **Edit Book**: Modify book information and associated image.
+- **Search Book**: Filter books based on title or author.
+- **Delete Book**: Remove a book from the list.
+- **Manage Stands**: Adjust the number of available stands for books.
